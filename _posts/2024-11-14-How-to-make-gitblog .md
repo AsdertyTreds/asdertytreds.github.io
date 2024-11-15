@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiw to make git blog!
+title: How to make github blog!
 ---
 
 The easiest way to make your github blog. 
